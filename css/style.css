@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+header {
+    text-align: center;
+}
+.img-perfil {
+    height: 150px;
+}
+
+main {
+    background-image: url("../images/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 30px;;
+}
+
